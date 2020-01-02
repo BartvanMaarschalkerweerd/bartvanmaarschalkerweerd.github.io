@@ -60,7 +60,7 @@ module.exports = ""
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"container\">\n<div class=\"card\">\n  <div class=\"card-body\">\n    <h1 class=\"card-title\">{{title}}</h1>\n    <h5 class=\"card-subtitle\">Angular5 / Redux</h5>\n    <br />\n    <!--Laat de contents van app-todo-list zien-->\n    <app-todo-list></app-todo-list>\n    <h1>Bartvanm</h1>\n  </div>\n</div>\n</div>"
+module.exports = "<div class=\"container\">\n<div class=\"card\">\n  <div class=\"card-body\">\n    <h1 class=\"card-title\">{{title}}</h1>\n    <h5 class=\"card-subtitle\">Angular5 / Redux</h5>\n    <br />\n    <!--Laat de contents van app-todo-list zien-->\n    <app-todo-list></app-todo-list>\n    <h1>Bart van Maarschalkerweerd</h1>\n  </div>\n</div>\n</div>"
 
 /***/ }),
 
